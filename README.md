@@ -2,4 +2,4 @@
 
 ![](https://github.com/zhenguonie/ANRICN_CGA/blob/main/fig_2.jpg)
 
-Source Data and Pre-trained Model can be obtained from: 10.5281/zenodo.14916603.
+Source Data and Pre-trained Model can be obtained from: https://zenodo.org/records/14916604  (Doi:10.5281/zenodo.14916603).
